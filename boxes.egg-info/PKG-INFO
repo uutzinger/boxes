@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: boxes
+Version: 0.1
+Summary: Boxes generator for laser cutters
+Home-page: https://github.com/florianfesti/boxes
+Author: Florian Festi
+Author-email: florian@festi.info
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: boxes,box,generator,svg,laser cutter
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Manufacturing
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Multimedia :: Graphics :: Editors :: Vector-Based
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Computer Aided Design
